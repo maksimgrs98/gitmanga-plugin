@@ -1,0 +1,13 @@
+{
+  "name": "gitmanga",
+  "icon": "icon.png",
+  "index": "index",
+  "appbar_elevation": 0,
+  "processor": "processor",
+  "extensions": [
+    {
+      "icon": "search",
+      "index": "search"
+    }
+  ]
+}
